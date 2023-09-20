@@ -1,0 +1,29 @@
+h1 {
+    background-color: #0da605;
+    padding: 10px;
+}
+
+img {
+    border-radius: 50%;
+    }
+
+div {
+    margin-top: 3px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.center{
+   text-align: center;
+}
+
+.frame{
+    border: solid 1px black;
+    padding: 5px;
+}
+
+
+
+
