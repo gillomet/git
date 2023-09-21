@@ -1,0 +1,80 @@
+
+.row {
+    margin:0px;
+}
+
+a {
+    font-size: 1.3rem;
+    color : white
+}
+
+a:hover {
+    color :grey;
+    text-decoration: none;
+}
+
+ .nav {
+    padding:20px;
+    margin-left: 10px;
+    background-color: rgb(40, 5, 238);
+ }
+
+ .inactive_link{
+    font-size: 1.3rem;
+    color : white
+ }
+
+    
+.right_frame_container {
+    width : 70%; 
+}
+
+.right_frame_container div{
+    width:300px;
+}   
+
+.left_frame_container {
+    width : 30%; 
+   
+} 
+
+.left_frame_container div{
+     margin-top: 10px;
+    margin-left: 10px; 
+}
+
+
+.user-name {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.user-role {
+
+    font-size: 1rem;
+    color:grey;
+}
+
+.title {
+    color:grey;
+    font-weight: bold;
+}
+
+.about-title{
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.about-text{
+    color : grey;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.button_container{
+    margin-top: 40px;
+    display: flex;
+    justify-content :space-around;
+    
+}
