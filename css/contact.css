@@ -63,3 +63,50 @@ section {
 .map {
     width: 55%;
 }
+a{
+    text-decoration: none;
+    color: #8b8c90
+}
+
+.row {
+    display : flex;
+}
+
+section{
+    background-color: #282b30;
+}
+
+.bloc{
+    margin:5px;
+    padding: 5px;
+    text-align: center;
+    width : 200px;
+}
+
+.info-container p {
+    color: #8b8c90;
+}
+
+.icon-title{
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+.icon-text{
+    font-size: 1.1rem;
+}
+
+.icon-circle{
+    border-radius: 50%;
+    padding:15px;
+    border :solid #8b8c90 1px;
+}
+
+i{
+    color: #8b8c90;
+}
+
+.social-networks-icons-list {
+display:flex;
+justify-content: space-around;
+}
