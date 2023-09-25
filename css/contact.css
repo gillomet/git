@@ -1,0 +1,143 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* ANTHONY CSS */
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+hr {
+    background-color: rgb(201, 3, 3);
+    height: 5px;
+    width: 60px;
+    margin: 15px 0;
+    border: none;
+}
+
+p {
+    text-align: center;
+}
+
+.p_intro {
+    margin-bottom: 15px;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 60%;
+}
+.infos {
+    width: 50%;
+    color: white;
+    background-color: #282b30;
+}
+
+.bloc_un {
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    width: 100%;
+    height: 50%;
+    padding: 20px;
+}
+
+.bloc {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+    gap: 10px;
+}
+
+
+
+.map {
+    min-width: 450px;
+}
+
+a{
+    text-decoration: underline;
+    color: #8b8c90
+}
+
+.row {
+    display : flex;
+}
+
+
+
+.bloc{
+    display: flex;
+    justify-content: flex-start;
+    margin:5px;
+    padding: 5px;
+    text-align: center;
+    width : 200px;
+}
+
+.bloc_contact {
+    padding-top: 25px;
+}
+
+.info-container  {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #282b30;
+    /*width: 50%;*/
+    min-width: 450px;
+    
+    min-height: 450px;
+}
+
+.info-container p {
+    color: #8b8c90;
+}
+
+.icon-title{
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+.icon-text{
+    font-size: 1rem;
+}
+
+.icon-circle{
+    border-radius: 50%;
+    padding:15px;
+    border :solid #8b8c90 2px;
+}
+
+.icon_circle_white {
+    border: solid white 2px;
+}
+
+i{
+    color: #8b8c90;
+}
+
+.social-networks-icons-list {
+display:flex;
+justify-content: space-around;
+}
+
+.fa-brands{
+    margin: 0 5px;
+    color: white;
+    width: 20px;
+}
+
+
